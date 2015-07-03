@@ -10,7 +10,7 @@
  <id>http://tom.preston-werner.com/</id>
  <author>
    <name>Todd Nichols</name>
-   <email>tom@mojombo.com</email>
+   <email>todd@talkabroad.com</email>
  </author>
 
  {% for post in site.posts %}
