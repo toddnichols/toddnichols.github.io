@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Farewell GitHub, Hello Immersive Computing
+tags: research_published
 ---
 
 {{ page.title }}

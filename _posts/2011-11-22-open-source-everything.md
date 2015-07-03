@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Open Source (Almost) Everything
+tags: research_published
 ---
 
 {{ page.title }}

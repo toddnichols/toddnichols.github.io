@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Replicated - An Easier Path from SaaS to Enterprise
+tags: research_published
 ---
 
 {{ page.title }}

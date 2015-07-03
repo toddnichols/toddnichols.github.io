@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Optimize for Happiness
+tags: research
 ---
 
 {{ page.title }}

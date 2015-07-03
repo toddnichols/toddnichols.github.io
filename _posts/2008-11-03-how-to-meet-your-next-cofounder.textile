@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to Meet Your Next Cofounder
+tags: testimonial
 ---
 
 h1. {{ page.title }}
