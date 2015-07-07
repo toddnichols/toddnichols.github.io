@@ -4,69 +4,73 @@ title: Todd Nichols
 ---
 
 <div id="home">
-  <h1>Testimonials</h1>
-  <ul class="posts">
-	{% assign counter2 = 0 %}
-    {% for post in site.posts  %}
-		{% if post.tags contains "testimonial" %}
-			{% if counter2 < 5 %}
-				<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-				{% assign counter2 = counter2 | plus: 1 %}
-			{% endif %}
-		{% endif %}
-    {% endfor %}
-	<li><a href="/testimonials">More...</a></li>
-  </ul>
-  
-  <h1>Research</h1>
-  <ul class="posts">
-	{% assign counter2 = 0 %}
-    {% for post in site.posts  %}
+	<div class="column-separator-left">
+		<h1>Stories</h1>
+		<ul class="posts">
+			{% assign counter2 = 0 %}
+			{% for post in site.posts  %}
+				{% if post.tags contains "story" %}
+					{% if counter2 < 5 %}
+					<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+					{% assign counter2 = counter2 | plus: 1 %}
+					{% endif %}
+				{% endif %}
+			{% endfor %}
+			<li><a href="/story">More...</a></li>
+		</ul>
+	</div>
+	<div class="column-separator-right">
+	<h1>Research</h1>
+	<ul class="posts">
+		{% assign counter2 = 0 %}
+		{% for post in site.posts  %}
 		{% if post.tags contains "research" %}
-			{% if counter2 < 5 %}
-				<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-				{% assign counter2 = counter2 | plus: 1 %}
-			{% endif %}
+		{% if counter2 < 5 %}
+		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% assign counter2 = counter2 | plus: 1 %}
 		{% endif %}
-    {% endfor %}
-	<li><a href="/research">More...</a></li>
-  </ul>
-  
-  <h1>Research Published</h1>
-  <ul class="posts">
-	{% assign counter2 = 0 %}
-    {% for post in site.posts  %}
-		{% if post.tags contains "research_published" %}
-			{% if counter2 < 5 %}
-				<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-				{% assign counter2 = counter2 | plus: 1 %}
-			{% endif %}
 		{% endif %}
-    {% endfor %}
-	<li><a href="/research_published">More...</a></li>
-  </ul>
+		{% endfor %}
+		<li><a href="/research">More...</a></li>
+	</ul>
+	</div>
+	<div class="column-separator-left">
+		<h1>Interaction Research</h1>
+		<ul class="posts">
+			{% assign counter2 = 0 %}
+			{% for post in site.posts  %}
+			{% if post.tags contains "research_published" %}
+			{% if counter2 < 5 %}
+			<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+			{% assign counter2 = counter2 | plus: 1 %}
+			{% endif %}
+			{% endif %}
+			{% endfor %}
+			<li><a href="/research_published">More...</a></li>
+		</ul>
+	</div>
+<div class="column-separator-right">
+	<h1>Highlighted Media</h1>
+	<ul class="posts">
+		<li><span>02 Sep 2013</span> &raquo; <a href="http://www.wired.com/wiredenterprise/2013/09/github-for-anything/all/">Article: WIRED - GitHub Is Going Mainstream </a></li>
+		<li><span>09 Nov 2011</span> &raquo; <a href="http://vimeo.com/39016099">Video: RubyConf Argentina - Optimizing For Happiness</a></li>
+		<li><span>01 Oct 2011</span> &raquo; <a href="http://confreaks.com/videos/712-rubyconf2011-github-flavored-ruby">Video: RubyConf - GitHub Flavored Ruby</a></li>
+		<li><span>23 Nov 2010</span> &raquo; <a href="http://vimeo.com/17118008">Video: Erlang Factory - Mastering Git Basics</a></li>
+	</ul>
+</div>
 
-  <h1>Highlighted Media</h1>
-  <ul class="posts">
-    <li><span>02 Sep 2013</span> &raquo; <a href="http://www.wired.com/wiredenterprise/2013/09/github-for-anything/all/">Article: WIRED - GitHub Is Going Mainstream </a></li>
-    <li><span>09 Nov 2011</span> &raquo; <a href="http://vimeo.com/39016099">Video: RubyConf Argentina - Optimizing For Happiness</a></li>
-    <li><span>01 Oct 2011</span> &raquo; <a href="http://confreaks.com/videos/712-rubyconf2011-github-flavored-ruby">Video: RubyConf - GitHub Flavored Ruby</a></li>
-    <li><span>23 Nov 2010</span> &raquo; <a href="http://vimeo.com/17118008">Video: Erlang Factory - Mastering Git Basics</a></li>
-  </ul>
 
-
-
-  <h1>Noteworthy Open Source Projects and Specifications</h1>
-  <ul class="posts">
-    <li><a href="http://github.com/jekyll/jekyll/">Jekyll:</a> A simple, blog aware, static site generator (used for this site).</li>
-    <li><a href="http://semver.org">Semantic Versioning:</a> A meaningful method for incrementing version numbers.</li>
-    <li><a href="http://github.com/toml-lang/toml">TOML:</a> Tom's Obvious, Minimal Language.</li>
-    <li><a href="http://github.com/talkabroad/god/">God:</a> Ruby process monitoring framework with easy extensibility.</li>
-    <li><a href="http://github.com/talkabroad/chronic/">Chronic:</a> Ruby natural language date/time parser.</li>
-    <li><a href="http://http://tomdoc.org">TomDoc:</a> Code documentation for humans.</li>
-    <li><a href="http://github.com/talkabroad/proxymachine/">ProxyMachine:</a> Layer 7 routing proxy in Ruby with Event Machine.</li>
-    <li><a href="http://github.com/github/gollum/">Gollum:</a> A simple, Git-powered wiki with a sweet API and local frontend.</li>
-    <li><a href="http://github.com/talkabroad/grit/">Grit:</a> Object oriented Ruby bindings for Git (used by GitHub).</li>
-    <li><a href="http://github.com/talkabroad/ernie/">Ernie:</a> Ruby/Erlang Hybrid BERT-RPC server.</li>
-  </ul>
+	<h1>Noteworthy Open Source Projects and Specifications</h1>
+	<ul class="posts">
+		<li><a href="http://github.com/jekyll/jekyll/">Jekyll:</a> A simple, blog aware, static site generator (used for this site).</li>
+		<li><a href="http://semver.org">Semantic Versioning:</a> A meaningful method for incrementing version numbers.</li>
+		<li><a href="http://github.com/toml-lang/toml">TOML:</a> Tom's Obvious, Minimal Language.</li>
+		<li><a href="http://github.com/talkabroad/god/">God:</a> Ruby process monitoring framework with easy extensibility.</li>
+		<li><a href="http://github.com/talkabroad/chronic/">Chronic:</a> Ruby natural language date/time parser.</li>
+		<li><a href="http://http://tomdoc.org">TomDoc:</a> Code documentation for humans.</li>
+		<li><a href="http://github.com/talkabroad/proxymachine/">ProxyMachine:</a> Layer 7 routing proxy in Ruby with Event Machine.</li>
+		<li><a href="http://github.com/github/gollum/">Gollum:</a> A simple, Git-powered wiki with a sweet API and local frontend.</li>
+		<li><a href="http://github.com/talkabroad/grit/">Grit:</a> Object oriented Ruby bindings for Git (used by GitHub).</li>
+		<li><a href="http://github.com/talkabroad/ernie/">Ernie:</a> Ruby/Erlang Hybrid BERT-RPC server.</li>
+	</ul>
 </div>
