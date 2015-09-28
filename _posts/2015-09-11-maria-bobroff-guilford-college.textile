@@ -1,0 +1,35 @@
+---
+layout: post
+title: Intermediate French, Guilford College
+tags: shared_curriculum
+---
+
+h1. {{ page.title }}
+
+p(meta). 11 Sep 2015
+
+h2. Overview
+
+The course to be modified is French 201: Intermediate French. It is a third-semester course that meets three times/week for 75 minutes. Third-semester language courses are challenging for students and teachers alike. Students are eager to use the target language independently, but they still struggle with grammatical accuracy and fluency. The difficulty of this level often frustrates students to the point that they discontinue their language studies. To combat this pattern, I revised our third-semester curriculum by moving from a traditional textbook to one organized around contemporary films (Séquences). Each chapter focuses on a single film, and each film addresses a contemporary theme, e.g. student life, adolescence, post-colonialism, immigration, racism. I designed the syllabus to include seven chapters and therefore seven films. In addition to regular quizzes and exams, students had to complete three readings, three short essays, and two individual speaking tests.
+
+As a whole, I have been pleased with these revisions. Students respond well to these films and are eager to engage with each other about the topics. There is no question that this change in textbooks has sparked more interest in the material. However, the course moves so quickly that students feel burdened with the number of hours they must devote to film viewings. Moreover, these revisions have not resolved the students’ struggles with the language. They might want to talk about racism in France, but their understanding remains superficial, rarely progressing beyond the material presented in the film. Likewise, they cannot make significant strides in proficiency when their usual partners are other intermediate students. To advance beyond this level, they need non-scripted practice with sympathetic native speakers. Struggling to understand and make themselves understood will ultimately boost their language skills as well as their confidence levels.
+
+h2. TalkAbroad Implementation
+
+I plan to reduce the number of films to five and dramatically increase the emphasis on oral expression. In reducing the number of films, I will be able to devote more time to each chapter, its themes, and its vocabulary. I plan to eliminate individual speaking tests and replace them with Talkabroad sessions. Each student will complete ten conversations with native speakers: one at the beginning of each chapter, and another toward the end.
+
+The first speaking assignment will be “cold,” before the student has watched the chapter’s film. As a class, we will brainstorm the issues behind a particular theme so that students can begin to formulate their ideas. I will provide the theme and key grammatical points to the conversation partners. After students complete the first round of conversations, I will listen to them to mine for clips to share with the entire class to spark discussion, guiding students to think about the topic through a cultural studies lens. Short, in-class writing assignments based on their initial conversations will further prepare them for viewing each film. 
+
+Midway through each chapter, that is, after viewing the film and completing some of the vocabulary and grammatical exercises, I will have students conduct their second conversation on the topic. This time their conversation will be more guided in that I will expect them to think about how their opinions have (not?) changed, i.e. “I previously thought X, but now I think Y,” or “The characters in the film say X. I did not expect this because….” 
+
+At the end of each unit, I will expect students to go back and listen to their two conversations. They will complete a reflection report in which they note their areas of success and areas needing improvement. I will also expect them to set a goal for their next set of conversations. In this way I will hold them responsible for remaining intellectually present during each conversation. 
+
+I hope that such intentional recycling will make students aware of their own progress and therefore encourage them along the way. Overall, I expect that these curricular changes will improve their proficiency as well as their confidence. By extension, this should improve retention into our advanced French courses.
+
+h2. Results
+
+Coming in February, 2016...
+
+h2. Project Lead
+
+Dr. Maria Bobroff, Guilford University

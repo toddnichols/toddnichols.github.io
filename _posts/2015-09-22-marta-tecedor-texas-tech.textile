@@ -1,0 +1,43 @@
+---
+layout: post
+title: Simulating Study Abroad- Evaluating Potential Benefits of Learner-Native Speaker Videoconferencing Conversations, Texas Tech University
+tags: research
+---
+
+h1. {{ page.title }}
+
+p(meta). 22 Sep 2015
+
+h2. Lead Investigators
+
+Dr. Marta Tecedor, Texas Tech University
+Dr. Jesse Gleason, Southern Connecticut State University
+
+h2. Overview
+
+This intervention study examines the impact of videoconferencing conversations between second language (L2) learners and native speakers on the learners’ motivation to continue studying the L2 and on the development of their conversational skills.
+
+To investigate the effect of videoconferencing conversations on learners’ motivation, participants will complete two interviews with the researcher: one at the beginning and one at the end of the semester. The first interview will gather information about learners’ language background, motivation, and willingness to continue studying Spanish. Questions in the second interview will readdress these questions and also elicit information regarding learners’ experiences conversing with native speakers and their perceptions of the quality of those interactions.
+
+To examine the impact of native-learner videoconferencing conversations on participants’ conversational skills development, five thirty-minute videoconferencing conversations between L2 learners and native speakers will be transcribed and analyzed using Conversation Analysis techniques. The goal will be to examine participants’ interactional abilities (i.e., turn-taking, repair, alignment moves, topic nomination, etc.) over the course of one semester.
+
+This project represents an important attempt to study how computer-enhanced activities potentially aid in language learning and how computer-mediated communications in particular can be properly integrated into the language-learning environment.
+
+h2. Methodology
+
+To investigate the proposed questions, data will be collected from two sections of a second year Spanish class (N≈40), and two sections of a third year Spanish class (N≈40). Within each level one of the sections will be control groups and the other ones the experimental groups. The experimental groups will complete five thirty-minute videoconferencing conversations with native speakers. These conversations will take place outside of class time and will be included as a component of the students’ grade. The control groups will complete five individual voice- recording activities in the course platform.
+
+To investigate learners’ experiences using videoconferencing and L2 linguistic development, a combination of qualitative and quantitative data analysis will be used. The motivation behind this mixed-methods research design is to answer both confirmatory and exploratory questions within a single inquiry to gain a comprehensive understanding of the phenomenon.
+
+h2. Research Questions
+
+Research question 1 aims at exploring the factors that contribute to foster students’ motivation to continue studying Spanish. Thus, it will be answered using qualitatively analytical procedures. Each participant will complete two interviews with the researchers: one at the beginning of the semester and one at the end of it. The first interview will gather information on the learners’ language background, perception of the factors that contribute to success in L2 learning, and motivation and willingness to continue studying Spanish. Questions in the second interview will again address these factors and, in the case of the experimental group, will also elicit information regarding learners’ experiences conversing with native speakers and their perceptions of the quality of those interactions.
+
+Research question 2 aims at describing the interactional resources deployed by learners of Spanish during videoconferencing conversations with native speakers and their development over the course of five conversations. Thus, this question will be answered using both qualitative and quantitative analytical procedures. In a first stage of the analysis, the analytical tools afforded by Conversation Analysis (CA) will allow us to closely analyze the data focusing on the use of turn-allocation techniques, patterns of repair initiation and completion, and procedures to express (dis)alignment (i.e., expression of one’s position). 
+
+In the second stage of the analysis developmental patterns with regards to the use of these three interactional resources will be identified. A quantitative analysis will allow us to obtain a categorization of resource use that, when examined chronologically (i.e., conversation 1 through conversation 5), will expose small changes in use, and, as a consequence, will uncover patterns of intra-individual variability.
+
+
+h2. Results
+
+Coming in Fall, 2016
