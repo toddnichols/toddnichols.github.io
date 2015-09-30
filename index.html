@@ -6,7 +6,7 @@ title: TalkAbroad Resources
 <div id="home">
 	<div class="horizontal-separator">
 		<div class="column-separator-left">
-			<h1>Stories</h1>
+			<h1>Student Stories</h1>
 			<ul class="posts">
 				{% assign counter2 = 0 %}
 				{% for post in site.posts  %}
@@ -52,15 +52,21 @@ title: TalkAbroad Resources
 				<li><a href="/research">More...</a></li>
 			</ul>
 		</div>
-	<!--	<div class="column-separator-right">
-			<h1>Additional Research</h1>
+		<div class="column-separator-left">
+			<h1>TalkAbroad Announcements</h1>
 			<ul class="posts">
-				<li><span>02 Sep 2013</span> &raquo; <a href=""></a></li>
-				<li><span>09 Nov 2011</span> &raquo; <a href=""></a></li>
-				<li><span>01 Oct 2011</span> &raquo; <a href=""></a></li>
-				<li><span>23 Nov 2010</span> &raquo; <a href=""></a></li>
+				{% assign counter2 = 0 %}
+				{% for post in site.posts  %}
+				{% if post.tags contains "announcements" %}
+				{% if counter2 < 5 %}
+				<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+				{% assign counter2 = counter2 | plus: 1 %}
+				{% endif %}
+				{% endif %}
+				{% endfor %}
+				<li><a href="/announcements">More...</a></li>
 			</ul>
-		</div> -->
+		</div>
 	</div>	
 </div>
 

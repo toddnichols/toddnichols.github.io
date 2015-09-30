@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simulating Study Abroad- Evaluating Potential Benefits of Learner-Native Speaker Videoconferencing Conversations, Texas Tech University
+title: Simulating Study Abroad&#58; Evaluating Potential Benefits of Learner-Native Speaker Videoconferencing Conversations, Texas Tech University
 tags: research
 ---
 
