@@ -116,6 +116,13 @@ ul.posts {
     text-decoration: none;
     margin-left: 1em;
   }
+  
+  .site .title a.back {
+      color: #aaa;
+      text-decoration: none;
+      margin-left: 1em;
+    float:right;
+  }
 
   .site .title a.extra:hover {
     color: black;
