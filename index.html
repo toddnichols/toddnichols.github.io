@@ -4,29 +4,42 @@ title: TalkAbroad Resources
 ---
 
 <div id="home">
-	<div class="horizontal-separator">
-		<div class="column-separator-left">
-			<h1>Student Stories</h1>
-			<ul class="posts">
-				{% assign counter2 = 0 %}
-				{% for post in site.posts  %}
-					{% if post.tags contains "story" %}
-						{% if counter2 < 5 %}
-						<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-						{% assign counter2 = counter2 | plus: 1 %}
-						{% endif %}
+	
+	<h1>Announcements</h1>
+	<ul class="posts">
+		{% assign counter2 = 0 %}
+		{% for post in site.posts  %}
+		{% if post.tags contains "announcements" %}
+		{% if counter2 < 3 %}
+		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% assign counter2 = counter2 | plus: 1 %}
+		{% endif %}
+		{% endif %}
+		{% endfor %}
+		<li><a href="/announcements">More...</a></li>
+	</ul>
+	
+		<h1>Student Stories</h1>
+		<ul class="posts">
+			{% assign counter2 = 0 %}
+			{% for post in site.posts  %}
+				{% if post.tags contains "story" %}
+					{% if counter2 < 10 %}
+					<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+					{% assign counter2 = counter2 | plus: 1 %}
 					{% endif %}
-				{% endfor %}
-				<li><a href="/story">More...</a></li>
-			</ul>
-		</div>
-		<div class="column-separator-right">
+				{% endif %}
+			{% endfor %}
+			<li><a href="/story">More...</a></li>
+		</ul>
+	
+		
 		<h1>Shared Curriculum</h1>
 		<ul class="posts">
 			{% assign counter2 = 0 %}
 			{% for post in site.posts  %}
 			{% if post.tags contains "shared_curriculum" %}
-			{% if counter2 < 5 %}
+			{% if counter2 < 10 %}
 			<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 			{% assign counter2 = counter2 | plus: 1 %}
 			{% endif %}
@@ -34,16 +47,15 @@ title: TalkAbroad Resources
 			{% endfor %}
 			<li><a href="/shared_curriculum">More...</a></li>
 		</ul>
-		</div>
-	</div>
-	<div class="horizontal-separator">
-		<div class="column-separator-left">
+		
+
+
 			<h1>Research</h1>
 			<ul class="posts">
 				{% assign counter2 = 0 %}
 				{% for post in site.posts  %}
 				{% if post.tags contains "research" %}
-				{% if counter2 < 5 %}
+				{% if counter2 < 10 %}
 				<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 				{% assign counter2 = counter2 | plus: 1 %}
 				{% endif %}
@@ -51,23 +63,9 @@ title: TalkAbroad Resources
 				{% endfor %}
 				<li><a href="/research">More...</a></li>
 			</ul>
-		</div>
-		<div class="column-separator-left">
-			<h1>Announcements</h1>
-			<ul class="posts">
-				{% assign counter2 = 0 %}
-				{% for post in site.posts  %}
-				{% if post.tags contains "announcements" %}
-				{% if counter2 < 5 %}
-				<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-				{% assign counter2 = counter2 | plus: 1 %}
-				{% endif %}
-				{% endif %}
-				{% endfor %}
-				<li><a href="/announcements">More...</a></li>
-			</ul>
-		</div>
-	</div>	
+		
+
+	
 </div>
 
 <!--
