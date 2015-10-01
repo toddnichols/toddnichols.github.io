@@ -6,7 +6,7 @@ tags: shared_curriculum
 
 h1. {{ page.title }}
 
-p(meta). 10 Sep 2015
+p(meta). 22 Sep 2015
 
 h2. Overview
 
