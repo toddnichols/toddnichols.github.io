@@ -24,9 +24,21 @@ Three times during the semester, I will ask students to go back and listen to th
 
 I hope that such intentional recycling will make students aware of their own progress and therefore encourage them along the way. Overall, I expect that these curricular changes will improve their proficiency as well as their confidence. By extension, this should improve retention into our advanced French courses.
 
-## Results
+## Conclusions
 
-Coming in February, 2016...
+On the whole, my students completed the semester with stronger speaking skills and greater confidence in French. Below are some of their comments to illustrate this:
+
+* "Before I could handle speaking and comprehending, but only in very slow conversations on easy topics. However, now I feel like I am able to talk about broader and more complex subjects, and I have even noticed that during conversations I have begun to think in French, which makes speaking even better."
+* "I think my French pronunciation has improved a lot. I also think I'm better able to elaborate on answers and speak it more comfortably. I also think I've gotten better at listening to different French accents through listening exercises and understanding words based on their context in reading passages and when listening to people speak. I really enjoyed doing TalkAbroad. I was nervous at first, and I didn't like how it was through video chatting with random people, but after awhile I got used to this, and I began to like speaking with these people and I thought it was helpful in improving my French speaking."
+* "I have seen my understanding of grammar improve, and my general ability to converse in French improve. Some days are better than others, and I certainly still have a lot of learning to do, but overall I feel like my feet are more firmly on the ground."
+
+I had also hoped to improve student retention in the French program. I cannot say for certain how well I met this goal. Of the 17 students enrolled in the fall, 9 have continued this semester. Of the eight who did not continue, only two students were able to continue but opted not to enroll. Among the others, one student graduated, one withdrew from school, one is studying abroad, and three students had schedule conflicts with required courses. It would have been nice to keep the two students who chose not to continue. In truth, they were not the strongest in the class, so perhaps they made wise decisions to focus their attention elsewhere. I wish the three with schedule conflicts could have continued, but I can understand their need to prioritize coursework in their majors. Obviously I could not hope to retain the three who are away from campus. So, my fourth-semester enrollment is not where I would like it to be, but I cannot blame the attrition only on the third-semester curriculum.
+
+The initial implementation of TalkAbroad was rocky. For the first couple weeks of the semester, students were unable to connect with partners. We eventually realized that our college’s network was blocking TalkAbroad’s videoconferencing system. Once our IT department worked out the issue, our students were able to make most connections. There were occasional Internet issues on the partners’ end, but most problems were resolved by rebooting the connection. On the rare occasion that a conversation failed due to technology, TalkAbroad was very quick to reimburse the student in question.
+
+Beyond the technological glitch, I also realized that I had planned too many conversations. I reworked the syllabus mid-semester so that students completed a conversation every two weeks.
+
+In conclusion, I found TalkAbroad very beneficial. My students liked it, and they made significant progress thanks to it. I plan to use it again next fall when I next teach third-semester French. I also plan to use the newly revised syllabus, as is, with 6-7 conversations. Next year should prove smoother now that I know about the potential IT hiccup as well as the preferred pacing of conversations in the syllabus. Thank you for the opportunity to introduce TalkAbroad into our curriculum!
 
 ## Project Lead
 
