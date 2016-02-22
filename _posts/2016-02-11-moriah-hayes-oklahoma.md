@@ -6,7 +6,7 @@ tags: story
 
 # {{ page.title }}
 
-02 Feb 2016
+11 Feb 2016
 
 My first TalkAbroad experience was amazing, and I’m so happy to be able to say this. Initially, I was really apprehensive about it, because it seemed like the interaction would be a bit robotic and scripted since my Spanish is still limited. I worried that it would end up becoming a boring “20 Questions” session where my partner did all the talking and I sat quietly saying “Sí” repetitively.
 
