@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ananda Bhatia, University of Kansas
+title: Ananda Bhatia, University of Kansas Part 1
 tags: story
 ---
 
