@@ -31,7 +31,28 @@ Steps for each conversation:
 
 ## Results
 
-Coming in June, 2016...
+Results were excellent and the new curriuclum will be implemented in the future. Below are a variety of comments made by students after using TalkAbroad
+
+How did you benefit from doing TalkAbroad?
+
+* "I learned even though we are not the best speakers and are not confident doing it they still understand us and can comprehend what we say."
+* "Talkabroad allowed me to break my nervous shell and speak more freely and find a way to get the words out even if it wasn't 100% grammatically correct."
+* "I gained confidence in my french speaking skills and learned that the only way to better myself is to make mistakes and learn from them. If I don't try I will never learn to better myself."
+* "I learned a lot about the cultures of other nations in the East. It made me more confident with speaking in French, and helped my listening skills quite a bit."
+
+If you were to be talking with a French teacher who doesn't know about TalkAbroad, what would you tell him/her?
+
+* "Do it!!!!!"
+* "It's more helpful than conversations with classmates, because it helps with listening skills to hear a native speaker. Also have the class do practice conversations before, so they can focus on their speaking during the actual conversation."
+* "I would tell them that it is a great experience and it is a fantastic way to help their students make their French speaking and listening better by talking with a native speaker."
+
+What advice do you have for future high school students who will be using TalkAbroad?
+
+* "Don't over think it, the first time is awkward, but it gets better. You will benefit from it in many ways. Your speaking ability will increase and your ability to understand quickly."
+* "Just jump in and do it, they're actually very helpful if you don't know what to say or how to say it use what you do know to describe it. It's going to be scary the first few times you do it but it will get better and you will actually be thankful that you did it."
+* "Actually talk to your partner! Find something you have in common so the conversation goes by more quickly. If you mess up saying something, that's okay! You'll be fine."
+* "It was nerve-racking at first, but once you realize that the people who will speak to you on TalkAbroad don't care if you make mistakes, then the conversation becomes easier."
+
 
 ## Project Lead
 

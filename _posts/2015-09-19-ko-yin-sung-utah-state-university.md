@@ -49,7 +49,7 @@ Hypothesis 3: We anticipate French learners reporting more positive perceptions 
 
 ## Results
 
-Coming in Summer, 2016
+Research results can be downloaded <a href="https://s3.amazonaws.com/talk_downloads/USU_final_report.pdf">here</a>.
 
 ## References
 

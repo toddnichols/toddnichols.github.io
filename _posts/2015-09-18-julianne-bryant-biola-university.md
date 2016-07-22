@@ -6,7 +6,7 @@ tags: research
 
 # {{ page.title }}
 
- 18 Sep 2015
+18 Sep 2015
 
 ## Lead Investigator
 
@@ -33,7 +33,10 @@ All data will analyzed through the following process:
 * Charting findings: Once the data is coded, it will be charted for each research participant.
 * Comparative Analysis:  Once the data charting is completed for all study participants, a comparative analysis will be made among all research participants that will account for similarities and differences in the findings.
 
-
 ## Results
 
-Coming in Summer, 2016
+Research was completed successfully and results will be discussed thoroughly in an upcoming journal publication. A summary of the results:
+
+* The heritage students enjoyed speaking with their TalkAbroad partners who made them feel comfortable.
+* Listening and transcribing the conversations helped them identify their areas of language weakness and know what to focus on.
+* The use of TalkAbroad in conjunction with the other metacognitive language activities helped the students have increased pride in and a desire to continue practicing the heritage language.

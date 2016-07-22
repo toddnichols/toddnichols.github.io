@@ -6,7 +6,7 @@ tags: story
 
 # {{ page.title }}
 
-29 Feb 2016
+29 Jan 2016
 
 I was a first time Talk Abroad user after getting handed an assignment in my University beginner Spanish course. After taking a whole semester to practice our grammar and vocab, our teacher felt it was time to test our skills with a native speaker.
 

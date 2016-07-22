@@ -6,7 +6,7 @@ tags: story
 
 # {{ page.title }}
 
-15 Mar 2016
+23 Apr 2016
 
 I am currently enrolled in Spanish 1402 (Elementary Spanish II) and was given the assignment to partake in a 30-minute conversation via TalkAbroad. Though some viewed this assignment as dreaded homework, I looked forward to the opportunity of connecting with a native speaker and having the chance to improve my Spanish. TalkAbroad met my expectations and my experience with Ana María (my conversation partner) gave me confidence in my Spanish speaking abilities. Ana immediately picked up on the level of Spanish I speak, using vocabulary I understood, speaking slowly, and patiently waiting on me to form my broken Spanish sentences. By the end of the conversation I felt as though I had made a new friend. I not only learned about her family and social life, but also gained knowledge about her culture and language.
 
