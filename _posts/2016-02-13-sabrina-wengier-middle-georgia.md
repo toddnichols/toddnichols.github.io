@@ -43,7 +43,14 @@ Conversation topics:
 
 ## Results
 
-Coming in summer, 2016...
+The ten students in the Intermediate II class really enjoyed the TalkAbroad conversations, although they were scared, and for some of them terrified before the first conversation. Students unanimously said they felt more confident in their ability to speak and understand the language.
+
+* “Although it was rough in spots, this seems like it is going to be a great way to force me out of my comfort zone and actually use the language.” 
+* “I loved the opportunity TalkAbroad gave me, it was a good scenario of allowing me to speak to a native speaker while allowing me the comfort of them knowing I wasn’t going to be the best at speaking. I feel like I knew my performance became better over time, and I realized how much confidence has to do with speaking. I am much more comfortable now speaking in French, but also I’ve realized that I still have my own drawbacks. I have to do at least 30 minutes of prepping before the TalkAbroad; not only to prepare myself but also to switch my brain from English to French. I know I’ve become advanced in French because I’ve never experienced this language-switch in my head before. Overall very pleased with this option in French and it taught me a lot!”
+
+Results of the curriculum redesign were positive, from the students’ reaction to the conversations to the improvement of their oral proficiency and confidence. I was able to see the students’ confidence build drastically from the first conversation, and this confidence carried over in class discussions. TalkAbroad was also an enriching experience culture-wise, as students’ partners were usually not from France, and were able to get different cultural perspectives on the topics we worked on. They learned about university studies in Quebec and Tunisia for instance.
+
+TalkAbroad conversations will become a permanent part of the Intermediate French II curriculum. Depending on whether I receive some funding from my department, I would also like to introduce TalkAbroad conversations at the Intermediate French III level, starting with three conversations during that semester. 
 
 ## Project Lead
 
