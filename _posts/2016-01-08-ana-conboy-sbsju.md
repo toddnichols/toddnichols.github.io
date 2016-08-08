@@ -37,7 +37,22 @@ Preparation and follow-up assignments will be organized in and out of class for 
 
 ## Results
 
-Coming in summer, 2016...
+A total of 17 students used the interactive tool. Thirteen reported that they had never spoken to a native speaker of French for more than 10 minutes prior to TalkAbroad, while 10 students said they had never visited a French-speaking country. Preliminary analysis of five separate questionnaires filled over the course of the semester (one pre-, and four following each of the individual conversations) suggests that students’ perceived confidence in speaking and listening skills increased with time. Additionally, it suggests that students acknowledge learning specific items of language and of culture after each conversation (the percentage of students disagreeing with this statement decreased steadily as the semester went on).
+
+We observed that students initially reported high levels of anxiety associated with conducting the conversations. This level decreased over the course of the semester, but was still noticeable after the final conversation. In response to this observation, and considering student feedback, department suggestions and procedures in place at Tulane University, we will implement a major change to the way the conversations are organized in the fall of 2016.
+Each student will still conduct four 30-minute conversations. However, instead of individual conversations, during the fall of 2016, each student will have the option of partnering with a classmate to conduct the first two TalkAbroad conversations. The final two conversations will be individual.
+
+It is our plan to continue using TalkAbroad in the fall of 2016, in part to provide students with the opportunity to practice their French oral skills with native speakers and to expand their cultural competence. The continued use of TalkAbroad will also provide more data points for pedagogical research purposes.
+
+## Sample Student Responses
+
+“Overall, I found the TalkAbroad experience to be very beneficial and would encourage it to be used in future courses. […] after each discussion I became more and more comfortable not only talking to the stranger but using my French. It gave me a lot more confidence in my French speaking to know I could communicate with a real French speaker outside of the classroom. […] Also, I loved learning more about the culture (my TalkAbroad partner was from Morocco). […] I thought this was much better than speaking with a professor because it mimicked a real life scenario better and it was interesting to learn about someone’s life from half way around the world”.
+
+“Using TalkAbroad was greatly beneficial while learning a foreign language to me. I loved having the ability to have a casual conversation with someone from a different culture, and further learning about their culture in a way that I wouldn’t have through a textbook. It was useful to practice my oral speaking abilities on TalkAbroad because I was able to test myself on how my own speaking skills are in a conversation, and learn first-hand different accents, “slang” words and phrases, and vocabulary from each TalkAbroad partner. I would definitely encourage the future use of TalkAbroad because students are able to easily engage in a fun and interesting conversation with students from around the world while further developing their own speaking abilities".
+
+“TalkAbroad overall was a very interesting and useful experience. Although the first couple of conversations caused some anxiety and stress, once the conversation started it became very free flowing. […] I also gained more confidence through TalkAbroad because I knew if I could hold a half hour conversation with a native speaker I could definitely participate and speak more French in class. In the future, I think the use of TalkAbroad would be wise since it requires more thinking on your toes and helps teach good communication skills whether you will continue with the language or not”.
+
+“It was an experience that I enjoyed, and will definitely never forget. TalkAbroad was not only a new and unique experience; it really helped my French conversational skills. After TalkAbroad, I am much more comfortable with my French speaking and comprehending. As the conversations progressed, my conversation improved immensely. I feel very lucky to be given this opportunity to interact with a person from a different country and learn new things about their culture. It was fun finding out the similarities and differences between our two entirely different lives. I would definitely encourage the future use of TalkAbroad because it is such an exciting opportunity and a one of a kind learning experience”.
 
 ## Project Lead
 
