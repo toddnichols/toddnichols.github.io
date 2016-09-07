@@ -18,7 +18,7 @@ As mentioned, this impacts a small number of students. During this time we will 
 
 We will keep this post updated as new information is available. 
 
-
+UPDATE: The most frequent quesion we have received is if this error impacts the live conversation for students. The answer is NO. This has no impact on students completing their conversation successfully. They will still be abel to have a perfect audio/visual experience with the conversation partners as normal. This error only impacts the resulting audio recording.
 
 # Timeline
 
