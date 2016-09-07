@@ -20,7 +20,7 @@ We will keep this post updated as new information is available.
 
 
 
-# Timeline.
+# Timeline
 
 On Wednesday, August 24th we reported an isolated incident regarding a student recording that started correctly and midway through dropped the voice of the conversation partner.
 
