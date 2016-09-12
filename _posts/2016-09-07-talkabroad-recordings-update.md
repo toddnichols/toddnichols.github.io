@@ -18,6 +18,8 @@ As mentioned, this impacts a small number of students. During this time we will 
 
 We will keep this post updated as new information is available. 
 
+UPDATE 2: The test and release team finished running tests on Friday and a small portion of traffic was run through patched servers over the weekend. Full release of patch should take place for TalkAbroad servers by the end of the day Monday or Tuesday, PST.
+
 UPDATE: The most frequent quesion we have received is if this error impacts the live conversation for students. The answer is NO. This has no impact on students completing their conversation successfully. They will still be able to have a perfect audio/visual experience with the conversation partners as normal. This error only impacts the resulting audio recording.
 
 # Timeline
