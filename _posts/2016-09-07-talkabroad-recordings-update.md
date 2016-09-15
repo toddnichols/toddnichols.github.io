@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ALERT - TalkAbroad recordings update
+title: RESOLVED - TalkAbroad recordings
 tags: announcements
 ---
 
@@ -17,6 +17,8 @@ The solution has been identified by our provider and they expect a successful fi
 As mentioned, this impacts a small number of students. During this time we will be offering free refunds to any students experiencing this problem. Additionally, students can cancel their conversations at any time and reschedule for after Sept. 14th. If there is any other way we can help facilitate during this period please reach out and let us know.
 
 We will keep this post updated as new information is available. 
+
+UPDATE 5: At 8:00AM PST on Thursday, Sep 15th our provider alerted us that 100% of servers have been updated and the issue has been completely resolved. Thank you for your patience in this.
 
 UPDATE 4: Our provider  had a few false starts where they found bugs in deploying and had to roll it back. This has caused a delay. They believe they have it all fixed and have implemented the fix on 40% of their servers. The remaining 60% should be rolled out tonight and tomorrow morning (Wed night/Thu morning). We will update this as soon as we hear the final solution has been deployed.
 
