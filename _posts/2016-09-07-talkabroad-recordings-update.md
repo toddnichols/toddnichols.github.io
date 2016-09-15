@@ -18,6 +18,8 @@ As mentioned, this impacts a small number of students. During this time we will 
 
 We will keep this post updated as new information is available. 
 
+UPDATE 4: Our provider  had a few false starts where they found bugs in deploying and had to roll it back. This has caused a delay. They believe they have it all fixed and have implemented the fix on 40% of their servers. The remaining 60% should be rolled out tonight and tomorrow morning (Wed night/Thu morning). We will update this as soon as we hear the final solution has been deployed.
+
 UPDATE 3: The release has run into a problem and the estimation for final deployment has been pushed to Wednesday, Sept. 13th at mid-day.
 
 UPDATE 2: The test and release team finished running tests on Friday and a small portion of traffic was run through patched servers over the weekend. Full release of patch should take place for TalkAbroad servers by the end of the day Monday or Tuesday, PST.
