@@ -14,7 +14,7 @@ The Spanish curriculum is aligned with the Standards for Foreign Language Learni
 
 The Communities goal is to experience local and online Spanish-speaking communities and has been difficult to address due to the lack of opportunities for communication with native Spanish speakers locally.  In attempt to address this goal, we organize Spanish conversation hours for which we hire two students that are native-speakers of Spanish when possible.  The conversation hours take place twice a week.  Attendance to the conversation hours is sometimes problematic due to student’s conflicts of scheduling, therefore, attendance requirements range from 0-5 among the different courses and instructors.
 
-The goal of this project is to develop a laboratory program that implements TalkAbroad as the tool for the laboratory component in second year Spanish and that aligns with our curriculum.  Therefore, this semester our students in intermediate Spanish courses are utilizing Talk Abroad as an alternative activity for the laboratory requirement.
+The goal of this project is to develop a laboratory program that implements TalkAbroad as the tool for the laboratory component in second year Spanish and that aligns with our curriculum.  Therefore, this semester our students in intermediate Spanish courses are utilizing TalkAbroad as an alternative activity for the laboratory requirement.
 
 ## TalkAbroad Implementation
 
