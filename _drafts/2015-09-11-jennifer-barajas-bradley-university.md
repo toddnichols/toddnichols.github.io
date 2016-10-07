@@ -24,7 +24,10 @@ Students will be required to complete at least three conversations in the semest
 
 ## Results
 
-Coming in February, 2016...
+The new curriculum has been well received. Students appreciate the additional oral practice, and especially enjoy the opportunity to use their new skills with native speakers. However, the biggest obstacle for future implementation of the same curriculum is lack of additional funding for the TalkAbroad program. While the students benefitted from the free conversations with native speakers through the use of the curriculum grant, in their end of semester survey regarding the experience nearly all of them expressed that they would be hesitant to pay for this kind of program in the future and would be upset if it were included as a “course fee.” Without funding to support the inclusion of the TalkAbroad conversations, unfortunately they cannot be included in future semesters. One solution to this obstacle would be to look for external grant money that could be used to fund the inclusion of TalkAbroad.
+
+I have shared the results of this change in curriculum with the faculty in my department and expressed the benefits of including conversations with native speakers in varying levels of language classes. I also plan to write an abstract to share my results with the foreign language teaching community at the next ACTFL conference. If I am able to include TalkAbroad in an additional semester of Spanish Phonetics, I should have enough comparison data to write an abstract to present my findings alongside other linguists and educators at the Current Approaches to Spanish and Portuguese Second Language Phonology conference in 2018.
+Overall the new curriculum for Spanish Phonetics has been a success. Although I am currently teaching the same course this semester without the inclusion of the TalkAbroad conversation component, I hope to find additional funding to be able to use TalkAbroad next year when I teach the course again.
 
 ## Project Lead
 

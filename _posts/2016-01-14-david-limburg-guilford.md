@@ -31,7 +31,13 @@ The addition of a Virtual Stammtisch with native speakers will have a significan
 
 ## Results
 
-Coming in summer, 2016...
+My students and I had an excellent experience with TalkAbroad in the spring semester 2016, in my Intermediate German II class at Guilford College.  The students were a bit skeptical when I first told them about the project.  They weren’t quite sure what to make of the idea of talking to native speakers in a skype-like situation.  Their apprehensions included their own feelings of being inadequate speakers of German and their anxieties about being able to understand a native speaker, especially if the technology was of less than ideal quality.
+But after the first assigned “get to know you” conversation, all 7 students came to class with a positive report about their first experience.  Two things made the opening conversation so successful: 1) The technology functioned flawlessly, and 2) the conversation partners were friendly, patient, understanding and interesting.  All students reported easily being able to fill the half hour with good, steady conversation, all in German.  Though some were still nervous about making mistakes, they were all ready to continue the experiment and seemed to be looking forward both to further conversations with their first partners, as well as getting to know the other partner.
+
+I tried to keep the topics focused enough on what we were doing in class, but also open enough to give them all room to take the conversation in directions that interested them individually.  This seemed to be an effective method, and the reports on each of the six conversations were always positive.  One or two times during the semester, a student mentioned trouble with the connection, but it always seemed to be due to a problem with our own college network, not with TalkAbroad.  One or two students missed conversation dates, but they were always able to make them up easily.
+
+My goals were for my students to have time outside of class for meaningful interaction in German beyond our weekly Stammtisch, and to enhance their listening skills in a new, fun, authentic way.  We accomplished both of these goals with TalkAbroad.  I am planning to use the program again in the spring intermediate course, and I am considering incorporating a limited use of it, maybe 3 conversations, in my fall Intermediate German I course.
+
 
 ## Project Lead
 
