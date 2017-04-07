@@ -1,0 +1,15 @@
+---
+layout: post
+title: Danielle Seng, Clark College
+tags: story
+---
+
+# {{ page.title }}
+
+22 Jan 2017
+
+My first experience with TalkAbroad was nothing short of amazing. I first learned about TalkAbroad from my Spanish professor at Clark College. I immediately loved the idea of being able to practice my speaking skills in front of a native speaker. Learning a new language without being able to speak with native speakers can be challenging, but TalkAbroad provides a solution. For my Spanish class, our final project was to talk with someone from a Spanish speaking country. We purchased 1 conversation credit for thirty minutes with our conversation partner. One of the assignments prior to talking with our partner was to come up with 30 interview questions. These questions really helped me during my conversation and guided us to know what to talk about.
+
+Choosing my partner was my favorite of this experience. I loved searching through all of the different people from various countries and reading about them. I was drawn to talk with someone from Mexico because I have been there a few times. I reviewed many profiles and noticed that a lot of people were from Merida, Yucatan, which is my favorite city in Mexico! I was so excited to be able to talk with someone and be able to relate to where they come from. I picked Gina Baeza Guillen as my conversation partner! What really attracted me to her profile was the fact that she was from Merida, and how she loves to exercise and be healthy. I also thought it was cool that she is a nurse who goes to rural parts of the Yucatan Peninsula seeking sick people who may not have the money to come to the city to get proper care. It was really easy to see each person’s availability and schedule an appointment. Before talking with Gina, I was nervous. I’m still learning Spanish and I was scared that I wouldn’t understand everything. 
+
+Gina was right on time to our conversation and immediately introduced herself and guided me in introducing myself as well.  I felt comfortable talking with her even when I didn’t know what I was saying. She helped me with my pronunciation and talked slow enough so I could understand her. We talked a lot about where she is from and how I had been there before. It was funny because not many people have heard of Merida, Yucatan and I think she was surprised that I had actually been there two times. It was so interesting to me to talk with someone from a completely different part of the world. I live in Vancouver, Washington where it is cold and rainy half of the year. I thought it was funny when she told me that 80 degrees was cool for them. After my conversation I felt more confident in my Spanish speaking skills than I did before. I felt like I learned a lot about a new culture, and it inspired me to visit again someday. I absolutely loved my experience with TalkAbroad and I know that this conversation will not be my last. 
