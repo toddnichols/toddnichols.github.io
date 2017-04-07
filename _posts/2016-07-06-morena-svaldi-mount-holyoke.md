@@ -39,7 +39,7 @@ As a way of assessing what students have learned with the help of TalkAbroad, we
 
 ## Results
 
-Coming Spring 2017...
+By using the TalkAbroad curriculum I improved tremendously students’ communicative competence, enhanced their listening comprehension and, last but not least, helped them to make connections with Italian native speakers in view of study abroad and internships in Italy. With TalkAbroad I created more opportunities for my students to practice their conversation skills outside of class. The syllabus covered six modules (each one lasting two weeks). At the end of each module students applied the new grammar and vocabulary to real world situations using virtual exchanges. After each conversation I required students to record a short video to reflect on what they have learned during the conversation. Students were also very satisfied with the technology that supports the conversations. The possibility to listen to their conversations sessions gave me the opportunity to assess their language progress. Overall, there was very positive feedback from both my students and from me, as instructor.
 
 ## Project Lead
 
