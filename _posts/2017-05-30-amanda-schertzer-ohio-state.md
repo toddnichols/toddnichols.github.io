@@ -6,7 +6,7 @@ tags: story
 
 # {{ page.title }}
 
-31 May 2017
+30 May 2017
 
 I recently had a conversation with Yarimar Jara Artavia from Costa Rica. This conversation was by far the best and most engaging conversation I have ever had in Spanish.  I did not feel ashamed or pressured when I made a mistake in Spanish. We just rolled along in the conversation. It felt so freeing to know that I could make a mistake or two and still have a great conversation. This feeling of acceptance of in my learning process bred a more fulfilling conversation. 
 
