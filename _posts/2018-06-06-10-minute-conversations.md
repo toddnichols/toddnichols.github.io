@@ -4,7 +4,7 @@ title: New Feature - 10-minute conversations
 tags: announcements
 ---
 
-# 10-Minute Conversations
+# {{ page.title }}
 
 06 Jun 2018
 
@@ -20,6 +20,6 @@ During curriculum planning, professors can combine any number of 10-minute and 3
  * 200-level courses: 2-5 30-minute conversations
  * 300-level coruses: 5-7 30-minute conversations
 
-## Pricing
+## Pricing 
 
 10-minute conversations cost $7.50 each, with a minimum purchase of 4. The minimum purchase is waived with the purchase of 30-minute conversations. If you would like to discuss implementing 10-minute conversations in your curriculum please send us an email at sales@talkabroad.com.
