@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: Brailey Gonsalves, University of Hawaii
 tags: story
@@ -6,11 +6,11 @@ tags: story
 
 # {{ page.title }}
 
- 15 Mar 2018
+ 15 March 2018
 
 With all honesty, I had a lot of anxiety prior to my TalkAbroad conversation, but it turned out to be life-changing! Before my conversation, I was very nervous about talking to a stranger halfway across the globe in a language I have only been studying for one and a half semesters. Generally, I am introverted and soft spoken in person, and to all my introverts out there, you know exactly my struggle!
 
-However, for my Spanish course, I was required to make a 30-minute appointment on TalkAbroad and speak only in Spanish, no English whatsoever! At this point in my course, we had just learned how to express our interests, how to ask simple everyday questions, past tense, irregular verbs, reflexive verbs, etc. I was okay with simple conversation, but I still struggled with describing food, comparing things and distinguishing when to conjugate verbs. 
+However, for my Spanish course, I was required to make a 30-minute appointment on TalkAbroad and speak only in Spanish, no English whatsoever! At this point in my course, we had just learned how to express our interests, how to ask simple everyday questions, past tense, irregular verbs, reflexive verbs, etc. I was okay with simple conversation, but I still struggled with describing food, comparing things and distinguishing when to conjugate verbs.  
 
 However, my partner, Carolina Rojas, was extremely patient with me and allowed me to fully process everything. I let her know beforehand, “Lo, siento. Necesito mucho tiempo para pensar,” meaning, “I’m sorry. I need a lot of time to think.” She was very understanding and allowed me explain myself at my own pace while she listened to every word I said.
 
