@@ -8,7 +8,7 @@ tags: story
 
 29 Jan 2016
 
-I was a first time TalkAbroad user after getting handed an assignment in my University beginner Spanish course. After taking a whole semester to practice our grammar and vocab, our teacher felt it was time to test our skills with a native speaker.
+I was a first time TalkAbroad user after getting handed an assignment in my University of Texas beginner Spanish course. After taking a whole semester to practice our grammar and vocab, our teacher felt it was time to test our skills with a native speaker.
 
 I chose a young woman who I felt seemed similar to me by being close in age, as well as also a college student. I hoped this would mean we would have things in common and therefore make easy conversation. I had notes upon notes ready in front of me in case there was lull or a time when communication was difficult. As expected, my nerves had me anxious waiting at the computer for my partner to join the conversation.
 
