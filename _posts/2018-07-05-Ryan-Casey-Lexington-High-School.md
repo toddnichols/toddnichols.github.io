@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AP Spanish Language & Culture, Lexington High School
-tage: shared_curriculum
+tags: shared_curriculum
 ---
 # {{ page.title }}
 

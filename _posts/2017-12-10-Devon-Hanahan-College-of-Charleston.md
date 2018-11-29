@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spanish 275-C, College of Charleston
-tage: shared_curriculum
+tags: shared_curriculum
 ---
 # {{ page.title }}
 
