@@ -26,21 +26,16 @@ Before beginning and at the end of the six online interactions, students will co
 
 ## Results
 
-* Original curriculum
 SPAN 101 is a multi-section, three-credit course that serves a population of more than 500 students per term in the Department of French, Hispanic & Italian Studies at the University of British Columbia (UBC). Developing listening and speaking skills is a major challenge for learners in SPAN 101. The syllabus is heavily loaded with grammatical contents and writing exercises for which students need not to produce concatenated oral Spanish. 
 
-* Working with TalkAbroad: An Enrichment to the Curriculum
 A series of six encounters that engaged learners enrolled in SPAN 101-108 and native Spanish speakers took place in the fall 2015. The sessions were scheduled to match the end of six lessons. Students and native speakers worked collaboratively completing handouts prepared by the instructor. 
 
 The handouts summarized the main contents from each lesson as they would be tested in the mid-term exams. The latter was important to consider since the exams are prepared by a coordinator not the course instructor. Judging on students’ final marks, the TalkAbroad sessions enhanced comprehension and application of the contents.
 
-* Major Obstacles
 During the implementation of the TalkAbroad sessions, no major difficulties were experienced. Both the facilitators and students were expected to have the handouts prepared and uploaded by the instructor. Occasionally, a TalkAbroad facilitator did not have a copy of a handout; yet, this by no means interrupted the flow of the conversation sessions. 
 
-* Status of New Curriculum Initiative
 Despite an overwhelming success of the project, a systematic integration of native-speaker practice for the SPAN 101 level has not been finalized. At present, further evidence is being collected employing a different online platform also with access to native Spanish speakers. The aim is to further demonstrate that a pedagogical imitative of this nature may bring important benefits for this beginner Spanish course.
 
-* Share Curricular Experience with Community
 Findings from a survey that collected students’ satisfaction with the project was reported at the Standing Committee on Language Articulation (The University of the Fraser Valley, April 2016). Likewise, the project was presented to teachers attending the Conference of the Canadian Association of Hispanists (University of Calgary, 2016). At both events, the audience reacted very positively. They also manifested interest to organize their own projects for which they learned about the TalkAbroad website and contact information. 
 
 Finally, in February 2017, the project was presented at the Research Forum of the Department of French, Hispanic & Italian Studies, UBC.
