@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kristin Houdyshell, Boston University Part 1
-tage: shared_curriculum
+tags: story
 ---
 # {{ page.title }}
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spanish 220, 315 and French 305, Allegheny College
-tage: shared_curriculum
+tags: shared_curriculum
 ---
 # {{ page.title }}
 
