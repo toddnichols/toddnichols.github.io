@@ -33,7 +33,13 @@ After each conversation, we will share and compare results. An important compone
 
 ## Results
 
-Results coming in 2019
+My semester using TalkAbroad went exactly the way I wanted it to go. I had previously taught this conversation class without TalkAbroad and focused on speaking strategies, such as high frequency verb use and circumlocution. I still did those things, added to presentations in the classroom, but I added in TalkAbroad so the students could see these techniques put into practice in real life. There was an overwhelmingly positive response from the students. We would brainstorm ideas for them to talk about during class and after they would have their conversations, we would discuss the conversations in class and the students would submit a short summary of the conversation. Students were able to take what they are practicing in class and implement those skills in real life. There was not one student who didn’t enjoy their experience and they were all excited to be able to speak to a real person. It was a great experience and we have already signed up three conversation classes consisting of 30 students for the Spring 2019 semester.
+
+I used a rubric to evaluate the conversations, and a portion of the students’ grades was based on their participation in the next day’s class where we discussed the conversations. The students were required to do three conversations throughout the semester. Unfortunately, in the coming semester, I have had to drop it down to two conversations, as the students need a bit more time in class to prepare for and follow-up the conversations. Including three TalkAbroad conversations into a one-credit hour course was difficult to fit into my already established curriculum because of time constraints.
+
+After a recent experience with another foreign language conversation company, it confirmed my desire to use TalkAbroad and helped me appreciate how organized and easy to use the TalkAbroad platform is. 
+
+Going forward, I am planning to use it again for this conversation course, and now that 10-minute conversations are an option, I may include it as part of my curriculum for my regular basic language class programs. Overall, TalkAbroad is extremely user friendly and a very positive part of class. For me, being user friendly is very important and TalkAbroad was very easy to use for me and my students. Having taught this class without TalkAbroad, and now using it, TalkAbroad really takes the class to the next level and makes the class more meaningful. It got the students much more excited about considering going to another country and using the language and that’s an important goal for me as I’m teaching my students.
 
 ## Project Lead
 
