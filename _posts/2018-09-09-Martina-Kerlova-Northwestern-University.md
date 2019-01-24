@@ -6,7 +6,7 @@ tags: shared_curriculum
 
 # {{ page.title }}
 
- 09 Sept 2018
+09 Sept 2018
 
 ## Overview 
 Students at Weinberg College at Northwestern have a 2-year language requirement (six quarters) and they choose between around 20 languages. In the German department, we also see students from other schools (faculties) at NU who may have a different (usually shorter) language requirement. The German department at NU offers language courses at all levels. The student population in our courses comes from all backgrounds and disciplines.  
