@@ -18,51 +18,65 @@ title: TalkAbroad Resources
 		{% endfor %}
 		<li><a href="/announcements">More...</a></li>
 	</ul>
-	
-		<h1>Student Stories</h1>
-		<ul class="posts">
-			{% assign counter2 = 0 %}
-			{% for post in site.posts  %}
-				{% if post.tags contains "story" %}
-					{% if counter2 < 10 %}
-					<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-					{% assign counter2 = counter2 | plus: 1 %}
-					{% endif %}
-				{% endif %}
-			{% endfor %}
-			<li><a href="/story">More...</a></li>
-		</ul>
-	
-		
-		<h1>Shared Curriculum</h1>
-		<ul class="posts">
-			{% assign counter2 = 0 %}
-			{% for post in site.posts  %}
-			{% if post.tags contains "shared_curriculum" %}
-			{% if counter2 < 10 %}
-			<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-			{% assign counter2 = counter2 | plus: 1 %}
-			{% endif %}
-			{% endif %}
-			{% endfor %}
-			<li><a href="/shared_curriculum">More...</a></li>
-		</ul>
-		
 
-
-			<h1>Research</h1>
-			<ul class="posts">
-				{% assign counter2 = 0 %}
-				{% for post in site.posts  %}
-				{% if post.tags contains "research" %}
+	<h1>TalkAbroad Best Practices</h1>
+	<ul class="posts">
+		{% assign counter2 = 0 %}
+		{% for post in site.posts  %}
+		{% if post.tags contains "best_practices" %}
+		{% if counter2 < 3 %}
+		<li> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% assign counter2 = counter2 | plus: 1 %}
+		{% endif %}
+		{% endif %}
+		{% endfor %}
+		<li><a href="/best_practices">More...</a></li>
+	</ul>
+	
+	<h1>Student Stories</h1>
+	<ul class="posts">
+		{% assign counter2 = 0 %}
+		{% for post in site.posts  %}
+			{% if post.tags contains "story" %}
 				{% if counter2 < 10 %}
 				<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 				{% assign counter2 = counter2 | plus: 1 %}
 				{% endif %}
-				{% endif %}
-				{% endfor %}
-				<li><a href="/research">More...</a></li>
-			</ul>
+			{% endif %}
+		{% endfor %}
+		<li><a href="/story">More...</a></li>
+	</ul>
+	
+		
+	<h1>Shared Curriculum</h1>
+	<ul class="posts">
+		{% assign counter2 = 0 %}
+		{% for post in site.posts  %}
+		{% if post.tags contains "shared_curriculum" %}
+		{% if counter2 < 10 %}
+		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% assign counter2 = counter2 | plus: 1 %}
+		{% endif %}
+		{% endif %}
+		{% endfor %}
+		<li><a href="/shared_curriculum">More...</a></li>
+	</ul>
+		
+
+
+	<h1>Research</h1>
+	<ul class="posts">
+		{% assign counter2 = 0 %}
+		{% for post in site.posts  %}
+		{% if post.tags contains "research" %}
+		{% if counter2 < 10 %}
+		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% assign counter2 = counter2 | plus: 1 %}
+		{% endif %}
+		{% endif %}
+		{% endfor %}
+		<li><a href="/research">More...</a></li>
+	</ul>
 		
 
 	
