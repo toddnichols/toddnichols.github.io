@@ -1,0 +1,16 @@
+---
+layout: default
+title: Todd Nichols
+---
+
+<div id="home">
+  <h1>TalkAbroad Best Practices</h1>
+  <ul class="posts">
+	
+    {% for post in site.posts  %}
+		{% if post.tags contains "best_practices" %}
+			<li> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+		{% endif %}
+    {% endfor %}
+  </ul>
+</div>
