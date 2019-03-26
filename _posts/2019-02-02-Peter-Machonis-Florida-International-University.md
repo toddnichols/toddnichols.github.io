@@ -102,6 +102,10 @@ Post assignment:
 * Give five examples of vocabulary that distinguish their French from French as spoken in France.
 * What type of [r] did your interviewer use? How difficult was it for you to communicate with your speaker? What new Francophone words did you learn through the course of your conversation? (one page)
 
+## Results
+
+Coming in 2019
+
 ## Project Lead
 
 Peter A. Machonis, Florida International University

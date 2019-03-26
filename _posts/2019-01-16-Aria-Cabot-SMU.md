@@ -41,9 +41,8 @@ Instructor: Susana Solera Adoboe
 * Motivation for implementing TalkAbroad: TalkAbroad empowers students, exposes them to authentic language and culture, and provides easy access to diverse authentic experiences. I want to look beyond interpersonal communication practice to explore the full potential of the platform by developing more sophisticated and complex assignments tied to a range of student learning outcomes. 
 
 ## Results
-We have submitted a 2019 ACTFL roundtable proposal on “Assessing Intermediate Communication & Cultural Competence with TalkAbroad.” We will present materials from our Spring 2019 courses, with the specific objective of sharing innovative strategies for using TalkAbroad conversation partners to assess interpretative and presentational communication and to establish, measure, and assess a wide range of desired student learning outcomes. A TalkAbroad grant provides us with an important base for developing, refining, and sharing with colleagues at other institutions these new strategies and approaches to the platform. 
 
-More results coming Summer 2019
+Coming in 2019
 
 ## Project Lead
 Aria Cabot, Southern Methodist University

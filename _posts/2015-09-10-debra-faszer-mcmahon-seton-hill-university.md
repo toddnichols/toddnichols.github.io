@@ -38,7 +38,7 @@ Finally, the fourth change involves written survey feedback from students regard
 
 The goal of the project is to increase student motivation, to provide more authentic speaking opportunities for students, and to increase oral proficiency through targeted language production in real-world contexts.  Data from the experience will help to determine how targeted native-speaker conversational practice impacts motivation and oral proficiency, and will also serve to help Seton Hill and other universities understand the impact of investments in opportunities for oral production likes those offered via TalkAbroad.
 
-## Conclusions
+## Results
 
 After implementing the above curricular changes and analyzing student work product and survey data, several initial findings can be delineated:
 

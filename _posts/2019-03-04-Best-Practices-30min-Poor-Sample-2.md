@@ -5,7 +5,9 @@ tags: best_practices
 permalink: /best_practices/unsuccessful-30-2/
 ---
 
-# Assignment Name:  
+# Unsuccessful 30-minute sample assignment #2
+
+## Assignment Name:  
 La moda y el cine 
 
 ## Shared Instructions: 

@@ -51,5 +51,5 @@ Because of students’ success and enthusiasm for TalkAbroad in this course, we 
 
 ## Project Leads
 
-Dr. Gillian Lord, University of Florida
+Dr. Gillian Lord, University of Florida  
 Kathryn Dwyer Navajas, University of Florida

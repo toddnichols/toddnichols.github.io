@@ -22,10 +22,6 @@ Two level 1 sections will have a task-driven conversation at mid- semester with 
 
 Expected Impact: We hope that the addition of TalkAbroad conversations results in effective and enjoyable practice of speaking/listening skills in our courses, as well as stronger cultural competencies. We recognize that large jumps in each category require longer, more intensive immersion, but hope to find indications that the TalkAbroad conversations engage students and allow for effective practice on that longer-term journey toward stronger competencies. The rubric should be helpful to gauge this success.
 
-## Results
-
-Coming in February, 2016...
-
 ## Project Lead
 
 Dr. Jeff Ruth, East Stroudsburg University

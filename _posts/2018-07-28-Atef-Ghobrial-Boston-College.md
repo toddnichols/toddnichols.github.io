@@ -69,7 +69,9 @@ speakers and inspire and urge them to positively and resolutely look forward to 
 In addition to the chance offered them to communicate with native speakers outside of the classroom and test themselves on how well their speaking skills are in a real time conversation, this experience will also provide them with the chance to hear and learn different accents and different vocabulary from each one of their TalkAbroad partners.
 
 ## Results
-Coming Spring 2019
+
+Coming in 2019
 
 ## Project Lead
+
 Atef Ghobrial, Boston College

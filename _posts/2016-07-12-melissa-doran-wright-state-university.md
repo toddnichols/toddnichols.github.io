@@ -28,10 +28,6 @@ Students will be required to complete 8 conversations throughout the 15-week sem
 
 To reflect the new element of TalkAbroad conversations, I have adjusted the grading scale for the course and I have designed the class topics to be more general, allowing for the contributions of the students’ conversations to help guide our classes. Having introduced the Conversations category to the grading scale, I have greatly reduced the weight and number of the written exams, allowing for an emphasis on oral production. The many changes of the draft of the new curriculum better reflect the intended course outcomes and the focus on students’ developing oral proficiency.
 
-## Results
-
-Coming Spring 2017...
-
 ## Project Lead
 
 Dr. Melissa Doran, Wright State University

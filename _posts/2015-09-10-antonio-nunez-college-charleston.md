@@ -24,7 +24,7 @@ Secondly, some of the ‘Más allá de la clase’ tasks also involve the use of
 
 The ‘Más allá de la clase’ section consists of a total of 6 conversations with native speakers through TalkAbroad throghout the semester. Each conversation is connected to each of the chapters in the textbook. For example, in chapter 1, which deals with education and study abroad, the students are expected to learn about and report on the similarities and differences that they found between the US school system (e.g., courses, access, tuition fees, etc.) and that of their conversation partner on TalkAbroad. Each student will submit an individual report including the questions they prepared for that topic with the information they obtained and share what they learned later in class in group conversations and/or individual presentations. At the end of the semester, the students will compare the dialect of two of their conversation partners in TalkAbroad and extract samples of linguistic and phonological features from their recordings.
 
-## Conclusions
+## Results
 
 With respect to the impact of TakAbroad on the course, apart from developing their linguistic and conversational skills, the interactions with native speakers contributed to achieving one of the goals of the course, that is, to expand the students’ knowledge of Hispanic cultures and societies, as shown in the example below:
 
@@ -45,4 +45,4 @@ Based on the results and the goals of this project, namely, to give the students
 
 ## Project Lead
 
-Dr. Antonio Pérez-Nuñez
+Dr. Antonio Pérez-Nuñez, College of Charleston

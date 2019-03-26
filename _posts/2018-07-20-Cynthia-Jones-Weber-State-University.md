@@ -31,7 +31,7 @@ With the use of TalkAbroad, we will be incorporating real-life conversations wit
 • FRCH 3715 Business French II - Interviewing skills will become a larger focus for this course. Students will work on resumes and cover letters in order to prepare them to talk about their work experiences. This will culminate with a TalkAbroad conversation that will be focused on the theme of interviewing for a job. Students will prepare for three different job situations: hospitality, business administration and the travel industry. Students will complete exercises and read articles pertaining to each theme. They will then prepare a resume and cover letter for a fictional job announcement. Their TalkAbroad conversation will be the interview for the particular job to which they have applied. In order to create space in the curriculum for the TalkAbroad conversations, students will no longer be required to submit a weekly business article. 
 
 ## Results
-We plan on sharing the results from our study on the use of TalkAbroad in our courses at the Utah Foreign Language Association conference in February 2019. We will also turn our conference presentation into an article and submit it in the conference proceedings for the UFLA conference.
+Coming in 2019
 
 ## Project Leads
 Dr. Cynthia Jones and Dr. Aubrey Jones, Weber State University
