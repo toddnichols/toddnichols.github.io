@@ -5,7 +5,7 @@ tags: best_practices
 permalink: /best_practices/unsuccessful-30-1/
 ---
 
-## Unsuccessful 30-minute sample assignment #1
+# Unsuccessful 30-minute sample assignment #1
 
 ## Assignment Name: 
 Diviértanse 

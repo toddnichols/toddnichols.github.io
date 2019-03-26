@@ -5,7 +5,7 @@ tags: best_practices
 permalink: /best_practices/unsuccessful-10-1/
 ---
 
-## Unsuccessful 10-minute sample assignment #1
+# Unsuccessful 10-minute sample assignment #1
 
 ## Assignment Name: 
 Conversation 1
@@ -28,12 +28,12 @@ Before your conversation, please read over these conversation guidelines.
 3. Your session should be in Spanish. Your partner will keep the conversation in Spanish. 
 4. You can use the chat to write vocabulary that you struggle pronouncing. Do not use the chat function to write your questions and comments.
 5. Be courteous with your partner and treat them with respect. Greet your partner and introduce yourself at the beginning of the conversation and say goodbye when you end the session.
-6. You can use some of the following phrases when you don't understand something, when you have a question or when you need to think over your response. 
-	Expressions: 
-		- Lo siento, no entiendo: "I'm sorry. I don't understand."
-		- Me puede(s) repetir, por favor: "Can you repeat, please?" 
-		- Tengo una pregunta: "I have a question." 
-		- Me puede(s) dar un momento, por favor?: "Can you give me a minute, please?" 
+6. You can use some of the following phrases when you don't understand something, when you have a question or when you need to think over your response.
+  * Expressions: 
+		* Lo siento, no entiendo: "I'm sorry. I don't understand."
+		* Me puede(s) repetir, por favor: "Can you repeat, please?" 
+		* Tengo una pregunta: "I have a question." 
+		* Me puede(s) dar un momento, por favor?: "Can you give me a minute, please?" 
 
 ## Private Instructions: 
 La conversación debe ser en español. Mantener al estudiante en el tema y tratar de abarcar todos los temas señalados. Ser muy pacientes con los estudiantes ya que a veces toman mucho tiempo para responder las preguntas.

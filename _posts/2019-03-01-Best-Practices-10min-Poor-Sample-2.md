@@ -5,7 +5,7 @@ tags: best_practices
 permalink: /best_practices/unsuccessful-10-2/
 ---
 
-## Poor 10-minute sample assignment #2
+# Poor 10-minute sample assignment #2
 
 ## Assignment Name: 
 Food
