@@ -200,3 +200,19 @@ hr {
   margin-top: 25px;
   margin-bottom: 25px;
 }
+
+ol {
+  margin-bottom: 25px;
+}
+
+ul {
+  margin-bottom: 25px;
+}
+
+ul ol{
+  margin-bottom: 0px;
+}
+
+ol ul{
+  margin-bottom: 0px;
+}

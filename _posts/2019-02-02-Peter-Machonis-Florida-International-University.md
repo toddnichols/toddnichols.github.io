@@ -83,7 +83,7 @@ Set up an appointment to talk with someone from Northern Africa (e.g., Tunisia) 
 Pre assignment:
 Read the two chapters on French in Africa (Le français en Afrique and Le français en Afrique du Nord) and the articles and short excerpts about from French in Senegal (Sénégal, Inventaire des particularités lexicales du français en Afrique noire, and Plurilinguisme et conflit de langues dans « Xala »)
 
-During the conversation:
+During the conversation...
 1. Discuss the role of French in their country
 	* Is French an official language?
 	* Are there other official languages?
