@@ -35,7 +35,7 @@ Overall, the students found it a positive experience. Students in the 3rd semest
 
 Dr. Aubrey Jones and I presented our results from implementing TalkAbroad into our curriculum at the Utah Foreign Language Association Conference on Thursday February 14th, 2019.
 
-Utah Foreign Language Association Conference presentation: Maximizing Target Language Exposure via Live Video Conferencing
+Utah Foreign Language Association Conference presentation: <a href="https://s3.amazonaws.com/talk_videos/Joneses+UFLA+Talk+Abroad.pptx">Maximizing Target Language Exposure via Live Video Conferencing
 
 ## Project Leads
 Dr. Cynthia Jones and Dr. Aubrey Jones, Weber State University
