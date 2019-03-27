@@ -9,7 +9,7 @@ permalink: /best_practices/sample-assignments/
 
 ## Successful 30-minute assignments
 - [Sample #1](/best_practices/successful-30-1)
-- [Sample #2](/best_practices/successful-30-2)
+- Sample #2
  
 ## Successful 10-minute assignments
 - [Sample #1](/best_practices/successful-10-1)
