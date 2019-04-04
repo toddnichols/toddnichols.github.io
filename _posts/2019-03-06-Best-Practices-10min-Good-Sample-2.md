@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Successful 10-minute sample assignment #2
-tags: best_practices
+tags: best_practices_examples
 permalink: /best_practices/successful-10-2/
 ---
 
