@@ -20,7 +20,7 @@ permalink: /best_practices/how-convo-partners-are-trained/
 - Conversation partners adjust speed and articulation to the level of the student.
 
 ### Feedback and Corrections
-- Conversation partners use and encourage students to use circumlocution and recasting to negotiate meaning.
+- Conversation partners are trained to use recasting and circumlocution to negotiate meaning.
 - Conversation partners are not trained educators and are not trained in grammar correction and providing feedback.
 
 Additionally, for safety and privacy, we require all interaction between partners and students to take place on the TalkAbroad website. Our partners are trained to not ask for or share contact information.
