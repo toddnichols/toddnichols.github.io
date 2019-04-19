@@ -55,27 +55,27 @@ Excerpt from Imagina, 3rd Edition, Vista Higher Learning, p. 227-229.
 BIOGRAFIA:
 Armando Valladares nació en Cuba en 1937. Pintor, poeta y ex embajador de EE.UU. ante la comisión de Derechos Humanos de la ONU, es sin embargo conocido mundialmente como prisionero político y de conciencia. Fue encarcelado en 1960, a los 23 años, y liberado en 1982 gracias a la presión de una campaña internacional. Escribió varios libros de poemas, entre ellos Prisionero de Castro (1979) y Contra toda esperanza (1985). Actualmente preside el Proyecto Valladares, una organización internacional que defiende los derechos de los niños, y el Consejo Internacional de la Fundación de Derechos Humanos.
 
-LA MEJOR TINTA por Armando Valladares
-Me lo han quitado todo
-la plumas
-los lápices
-la tinta
-porque ellos no quieren
-que yo escriba
-y me han hundido
-en esta celda de castigo
-pero ni así ahogarán mi rebeldía.
-Me lo han quitado todo
--bueno, casi todo porque
-me queda la sonrisa
-el orgullo de sentirme un hombre libre
-y en el alma un jardín
-de eterna florecitas.
-Me lo han quitado todo
-la plumas
-los lápices
-pero me queda la tinta de la vida
-mi propia sangre y con ella escribo versos todavía.
+LA MEJOR TINTA por Armando Valladares  
+Me lo han quitado todo  
+la plumas  
+los lápices  
+la tinta  
+porque ellos no quieren  
+que yo escriba  
+y me han hundido  
+en esta celda de castigo  
+pero ni así ahogarán mi rebeldía.  
+Me lo han quitado todo  
+-bueno, casi todo porque  
+me queda la sonrisa  
+el orgullo de sentirme un hombre libre  
+y en el alma un jardín  
+de eterna florecitas.  
+Me lo han quitado todo  
+la plumas  
+los lápices  
+pero me queda la tinta de la vida  
+mi propia sangre y con ella escribo versos todavía.  
 
 Original escrito con mi sangre y una astillita de madera en abril de 1981 en las celdas de castigo de la Cárcel Combinado del Este, en La Habana.
 
