@@ -8,7 +8,7 @@ permalink: /best_practices/successful-10-2/
 # Successful 10-minute sample assignment #2:
 
 ## Assignment Name:
-Ocio y entretenimiento
+Ocio y Entretenimiento
 
 ## Shared Instructions:
 Llevar a cabo una conversación sobre el ocio y entretenimiento en tu país -¿Cuáles son las plataformas más populares? -Comentar los programas de televisión, películas, podcasts, etc. más populares -¿Hay algunos otras plataformas que suelen gustar?

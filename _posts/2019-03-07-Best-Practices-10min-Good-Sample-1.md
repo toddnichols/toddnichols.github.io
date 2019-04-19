@@ -8,7 +8,7 @@ permalink: /best_practices/successful-10-1/
 # Successful 10-minute sample assignment #1:  
 
 ## Assignment Name: 
-Talk Abroad 1
+TalkAbroad 1
 
 ## Shared Instructions: 
 Que pensez-vous du déjeuner français (en comparaison avec le déjeuner typique en Amérique du Nord)? Quel est l’avantage principal de manger un plus grand repas (a larger meal) à midi? Pourquoi est-ce que c’est rare en Amérique du Nord? Combien de fois (times) par semaine (ou par mois) dînez-vous dans des restaurants?

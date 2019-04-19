@@ -8,7 +8,7 @@ permalink: /best_practices/unsuccessful-30-2/
 # Unsuccessful 30-minute sample assignment #2
 
 ## Assignment Name:  
-La moda y el cine 
+La Moda y el Cine 
 
 ## Shared Instructions: 
 We are going to talk about fashion and movies and what influences they have from other countries.
