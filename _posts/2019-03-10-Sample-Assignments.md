@@ -8,13 +8,13 @@ permalink: /best_practices/sample-assignments/
 # Examples of successful and unsuccessful assignments:
 
 ## Successful 30-minute assignments
-- [Sample #1](/best_practices/successful-30-1)
-- [Sample #2](/best_practices/successful-30-2)
-- [Sample #3](/best_practices/successful-30-3)
+- [Conversazione 1 - Introduzioni by Kelly Blank, Xavier University](/best_practices/successful-30-1)
+- [La Mejor Tinta by Dianne Moneypenny and Kathryn Johnston, Indiana University East](/best_practices/successful-30-2)
+- [La Vida Moderna by Mariana Stoyanova, Georgia College and State University](/best_practices/successful-30-3)
  
 ## Successful 10-minute assignments
-- [Sample #1](/best_practices/successful-10-1)
-- [Sample #2](/best_practices/successful-10-2)
+- [TalkAbroad 1 by Romain Rivaux, Florida Atlantic University](/best_practices/successful-10-1)
+- [Ocio y Entretenimiento by Benjamín Chang, Greendale Community College](/best_practices/successful-10-2)
  
 ## Unsuccessful 30-minute assignments
 - [Sample #1](/best_practices/unsuccessful-30-1)
