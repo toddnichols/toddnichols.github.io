@@ -5,7 +5,7 @@ tags: best_practices
 permalink: /best_practices/nu-case-study/
 ---
 
-## Northwestern University Case Study
+## Northwestern University Case Studys
 ## Intermediate German
 ## Winter 2018/2019
 *prepared by the coordinator of the Intermediate program at NU, Martina Kerlova*
@@ -25,21 +25,10 @@ With high frequency, the topics originally planned for each conversation turned 
 - The topics for each unit would be congruent with the topics for conversations.
 - Students would work with the vocabulary from current chapters.
 
-# The unexpected:
-- Introducing TalkAbroad wasn’t met with overwhelming enthusiasm.
-- About a fifth of the students would turn off the camera. 
-- Some students were finishing early, running out of vocabulary and topics.
-- Using TalkAbroad at the intermediate level as an enhancing side track didn’t prove very efficient without taking the time out of the existing curriculum to actually prepare the students for every conversation. 
-
 # Student reflections:
 - Our students respected their partners in Germany and commented unanimously on their openness, positive attitude, patience and “awesomeness.”
 - It’s either love or hate. It seems that very few students settled somewhere in between. Many students described their conversations as awkward.
 - Students expect perfection from technology, so they always commented on any, even minor audio issues. The lack of patience was striking.
-
-# Suggestions/considerations for TalkAbroad:
-- Even though I’m fully aware of the demographic situation in Germany, I’d like to suggest finding a partner who comes from a minority him/herself. This might help our students coming from underprivileged minorities to ease the conversation. 
-- Perhaps introducing a way for the coordinator to communicate with the partners without having to create a new assignment. I am not proposing this to go around TA administrators - this channel should be embedded in the platform. It would just make it easier to send a quick note if anything changes in the syllabus.
-- If the ratio of conversation partners and students doesn’t change, it might help to use some automatic reminder system to make sure everyone is meeting the deadline for completion. This could be done also on our side, but maybe there is a reminder software available?
 
 # 2019 Version:
 - Talk Abroad assignments were heavily structured. The structured conversations worked better, but it took us away from the spontaneity and also carved out time from the new material to be presented in class. On the other hand, it got us closer to the original goal - it boosted motivation, satisfaction, confidence for most students.

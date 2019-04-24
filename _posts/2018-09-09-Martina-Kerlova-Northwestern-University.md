@@ -16,7 +16,7 @@ The second quarter of Intermediate German at NU focuses on colloquial and idioma
 
 Having read and watched the popular culture story, our students are eager and willing to go further and the last unit on the recent political environment in Germany is well received. The opportunity to converse with native speakers is a great opportunity for our students and broadens their perspective on the greater world. We educate about 45-55 students a year in our intermediate program and, for most of them, it is the last year they focus on a foreign language and culture. 
 
-The online grammar that we have been using for more than a decade includes only limited video and audio segments. Our Intermediate German curriculum is at a crossroads. For the past 20 years, we have been using a Northwestern-made grammar platform “Intermatik” (http://intermatik.mmlc.northwestern.edu) and our own selection of readings and cultural topics. We are currently considering either updating or recreating a similar platform or switching to a commercial textbook. We would like to continue the Northwestern-made course, but the conversational segment presents a continual challenge because it ages very quickly if scripted and it is also the most difficult and labor intensive one to update.
+The online grammar that we have been using for more than a decade includes only limited video and audio segments. Our Intermediate German curriculum is at a crossroads. For the past 20 years, we have been using a Northwestern-made grammar platform [“Intermatik”](http://intermatik.mmlc.northwestern.edu) and our own selection of readings and cultural topics. We are currently considering either updating or recreating a similar platform or switching to a commercial textbook. We would like to continue the Northwestern-made course, but the conversational segment presents a continual challenge because it ages very quickly if scripted and it is also the most difficult and labor intensive one to update.
 
 Thus, the strengths of our current curriculum are:
 1. Flexibility (content, pace, topic, reading/grammar balance)
@@ -54,7 +54,7 @@ The student response was varied. Our students respected their partners in German
 
 Using TalkAbroad has been a much more positive experience in 2019: easy for instructors and enthusiastically received by most students. It came at the cost of the existing curricula, which needed to be adapted. In a strong and a rigorous program with three or four levels, it might be easier to use TalkAbroad after the students covered some basic vocabulary and reach a level of at least 4-5,000 words. If this isn’t possible, the space needs to be carved out for this activity, or else, it’s not as effective. We are looking forward to collaborating with TalkAbroad in the future. We would like to thank TalkAbroad for the grant we received for the trial run in 2018. We would not have gotten involved with this platform so intensively without this possibility.
 
-To read more about Northwestern University's German TalkAbroad experience, please visit our Best Practices page. 
+To read more about Northwestern University's German TalkAbroad experience, please visit the [Northwestern University Case Study](/best_practices/nu-case-study/) in TalkAbroad's [Best Practices](https://resources.talkabroad.com/best_practices/). 
 
 ## Project Lead
 Martina Kerlova, Northwestern University
