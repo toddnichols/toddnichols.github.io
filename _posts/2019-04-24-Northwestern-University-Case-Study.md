@@ -2,7 +2,7 @@
 layout: post
 title: Northwestern University Case Study
 tags: best_practices
-permalink: /best_practices/sample-assignments/
+permalink: /best_practices/NU-case-study/
 ---
 
 ## Northwestern University Case Study
