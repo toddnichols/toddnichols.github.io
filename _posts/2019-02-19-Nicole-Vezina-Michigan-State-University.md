@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nicole Vezina, Michigan State University
+title: Nicole Vezina, Michigan State University Part 1
 tags: story
 ---
 # {{ page.title }}
