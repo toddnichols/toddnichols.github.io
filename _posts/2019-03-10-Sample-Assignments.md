@@ -17,13 +17,13 @@ permalink: /best_practices/sample-assignments/
 - [Ocio y Entretenimiento by Benjamín Chang, Greendale Community College](/best_practices/successful-10-2)
  
 ## Unsuccessful 30-minute assignments
-- [Sample #1](/best_practices/unsuccessful-30-1)
-- [Sample #2](/best_practices/unsuccessful-30-2)
-- [Sample #3](/best_practices/unsuccessful-30-3)
+- [Diviértanse](/best_practices/unsuccessful-30-1)
+- [La Moda y el Cine](/best_practices/unsuccessful-30-2)
+- [La Naturaleza](/best_practices/unsuccessful-30-3)
  
 ## Unsuccessful 10-minute assignments
-- [Sample #1](/best_practices/unsuccessful-10-1)
-- [Sample #2](/best_practices/unsuccessful-10-2)
+- [Conversation 1](/best_practices/unsuccessful-10-1)
+- [Food](/best_practices/unsuccessful-10-2)
 
 ---
 # For more information, please take a look at these additional posts:
