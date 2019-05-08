@@ -49,12 +49,12 @@ We incorporated one conversation into each chapter and one final closing convers
 Only the last, graded conversation will be more structured as our students will have more time to prepare for a topic-centered conversation. It will be a graded conversation, accounting for 10 percent of their final grade. Students will be required to listen to their own conversation again and to one additional conversation their peer student led. They will also submit their self-evaluation and one evaluation of their classmate’s conversation. The instructor will then combine the self-evaluation, the peer evaluation and his/her own to provide feedback.
 
 ## Results
-*Preliminary Report:*
+*Preliminary Report (Feb. 2019):*
 As of today, when I’m writing this preliminary report, 59 Intermediate German students at Northwestern have completed at least one conversation out of five and the majority of them have completed two conversations. The project has been running mostly smoothly, with minor issues with scheduling and occasional technical problems. Overall, I’m happy to report that most users have been enjoying this special opportunity to speak with native speakers. 
 
 Seen from my side, as an instructor and coordinator, the experience has been thus far very positive, from the scheduling mode to retrieving results. Students seem to be getting used to the technical, as well as the human aspect of a real conversation. Using TalkAbroad has been a positive experience so far - easy for instructors and enthusiastically received by most students.
 
-*Final Report:*
+*Final Report (May 2019):*
 This report covers our experience incorporating TalkAbroad conversations for the first time into the Intermediate German Curriculum at Northwestern University in winter 2018. The college operates on a quarter system and each of the quarters is thematically and grammatically structured. Our students had four quarters of study of German before they participated in the conversations via TalkAbroad.
 
 In addition to studying grammar, our students worked with 20th century historical and literary materials (a play by Bert Brecht, literary story from the 50’s about the former Western Germany by H. Böll and a movie about everyday life in the East Germany). In the winter 2018 quarter, we worked with contemporary popular German culture. The topics from fall quarter proved less suitable for a spontaneous conversation than popular culture. Music and politics were best received, though politics presented a struggle for some students and/or their partners.
