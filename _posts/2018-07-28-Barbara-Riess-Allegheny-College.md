@@ -36,7 +36,38 @@ The greatest challenge in French 305, now a combined advanced conversation and c
 
 ## Results
 
-Coming in 2019
+The TalkAbroad grant specified that we present course syllabi with evidence that the integration of TalkAbroad be just that: an integrated component rather than an add-on. The program was so well-received in the fall 2018, I encouraged its use in the spring 2019 as well and found that when integrated intentionally, the TalkAbroad component of a class is more favorably received. 
+
+In Fall 2018, we integrated TalkAbroad into:
+
+*SPAN 220: Replaced isolated recordings for pronunciation/phonetic assessment -*  
+Conversations made the phonetics come alive. What remains is the rubric for measuring their performance in the conversation. Students received individual feedback for each assessment. With the recordings of the TalkAbroad conversations, I was able to target specific places where student pronunciation and tonality reflected attention to the pitfalls (like aspiration) we highlighted in our study of phonetics. The recorded conversations also had the advantage of the native speaker voice model as a reference. Class time was also dedicated to highlighting what the students need to have a conversation around the topic at hand. 
+
+*FRNCH 301: Integrated into new syllabus structure -*  
+The four TalkAbroad conversations pair directly with a given chapter’s theme, on a “personal” and a “social” level. For each conversation, students ask their conversation partner questions; they had time to look up relevant information about the theme in relation to the country in which the student lives. After we previewed their conversation in class as per the syllabus, students had one week to schedule the conversation, complete it, and write up a summary on it, including identification of new lexical items learned (word or expressions). We spent time in class sharing as a group once everyone had completed his/her conversation.
+
+*SPAN 315: Replaced fill-in-the blank and translation-based exams -*   
+Spanish 315’s role is to increase student knowledge of how the language works; they study isolated structures or tenses, see them at work in different genres, and then imitate those genres. Former syllabus lacked an oral component and cultural component depended on the comprehensible input given. In the fall semester, TalkAbroad conversations became a topic of conversation. Exams became reflection pieces that required students to transcribe 3-minute sections of their conversations, and identify and use targeted structures and vocabulary (in writing) to reflect on the conversation. 
+
+*Fall 2018 Student Testimonials:*  
+Many students mentioned they were very nervous at first but ended up liking it. Only one student had "mixed feelings" about it because the student felt the conversations were forced sometimes. Even that student wrote "But I see the importance of talking with a native speaker." A few mentioned that they felt that 30 minutes was a really long time and one student mentioned the fact that "sometimes technology got in the way of a natural conversation."
+- "It was very beneficial and strengthened my speaking skills." 
+- "I really enjoyed it and I learned a lot."
+- “It seemed like a chore.”
+- "It made me feel more confident about my speaking."
+- "The partners were patient and fun to talk to."
+- "It was one of the most helpful aspects of the course."
+- “I prefer conversing at Spanish Table, or it should be either/or.”
+
+All professors agreed that TalkAbroad offers an experience that can only benefit our students. All found the platform easy to use for professors and students, and noted few technological challenges.
+
+Critiques of the tool were presented not as insurmountable obstacles, but moments that called for unexpected negotiation. In equal measure, all mentioned the adjustment to timing/scheduling of the conversations. All agreed that a one-week window for scheduling the conversation should be allowed which opened up challenges for the timing of the conversation with regards to the amount of classroom work for unit preparation (some students had less time with course material for discussion than others). In general, professors were satisfied with TalkAbroad partners. Inevitably, there were some inconsistencies in the level of engagement/preparation of the individual TalkAbroad partners.
+
+Overall, we found TalkAbroad to be an easy-to-use method for providing an introductory immersion experience for students. It provides for a change in activity from class to class and, more importantly, a variety of voices for students to hear. Departmental colleagues received favorably and are considering adoption in their language classes as well. 
+
+The department accepted my recommendation to subsidize one class per each language section on a Demmler Grant-like basis. For the future, subsidy for SPAN 315 and FRNCH 301 remain.
+
+Thank you for the opportunity to invigorate my pedagogy and excite our students! 
 
 ## Project Lead
 
