@@ -1,0 +1,16 @@
+---
+layout: post
+title: Holden Sledge, Tennessee Technical University
+tags: story
+---
+# {{ page.title }}
+
+24 October 2019
+
+During the fall semester of 2019, and as I am writing this, I am enrolled in a Spanish II course for my Spanish minor. When my professor told the class that we would be using TalkAbroad for a portion of our grade, I was quite intimidated and felt as though it was a bit unnecessary. Those thoughts quickly faded after my first TalkAbroad conversation. So far, I have completed three ten-minute conversations with three different people, and I can confidently say that it has been not only beneficial but also very surprisingly pleasant. 
+
+My first conversation was with Pablo Melendez. I went into this conversation very nervous, as it is never easy to talk to someone new, especially in a language I am not comfortable with. However, Pablo was a very relaxed, patient, and understanding person. If I ever needed help with a certain word or phrase, he would very kindly help me pronounce it and understand it. My professor assigned my class with speaking prompts where Pablo and I would play out a certain scenario. These scenarios, however, typically did not take the entire ten minutes reserved for the conversation. Fortunately, this was not a problem with Pablo, nor any other conversationalist, I have talked to. Anytime I was unsure of what to say or how to carry on the conversation due to a lack of vocabulary, my conversation partner has always been ready to ask me questions about myself to keep the conversation flowing naturally and to allow me to think on my feet about how to respond. 
+
+The second conversation I had was with a woman named Sandra Rodríguez. Sandra was a pleasant woman who, much like Pablo, was very willing to help me understand the language and be patient with me. Again, we talked through the speaking prompt and finished with extra time to talk, so we asked each other questions and kept a conversation going. It is always pleasant to talk to someone new and get to know them, even if only for a few minutes. My most recent conversation was with a man named Renato Cevallos, who again, was very patient and helpful. In fact, I highly recommend speaking with him if you are a beginner due to his helpful and encouraging nature. 
+
+All in all, my entire TalkAbroad experience has shockingly surprised me. It has been a huge benefit to be able to speak to native Spanish-speakers in order to further my comprehension of the language. Not a single negative thing could be said from my experience, even from the time I missed a conversation. I had to miss one conversation due to illness, but the TalkAbroad program and my scheduled conversation partner made a great effort to try and contact me to make sure that I did not miss the conversation. I am very thankful for the opportunity to use such an amazing program and to talk to such amazing people. It has truly been a wonderful learning experience and I look forward to my future conversations!
