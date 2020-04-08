@@ -5,7 +5,7 @@ tags: story
 ---
 # {{ page.title }}
 
-5 November 2019
+28 January 2020
 
 I absolutely love TalkAbroad! I appreciate that it gives my professor the freedom to assign her students requirements to include in their conversations, but it also gives the students the freedom to make their appointments whenever is best for them. It not only allows you to practice speaking a foreign language, but it also allows you to learn about different cultures around the world. There is a wide variety of people that you can choose to schedule your appointment with, and it even includes a bio about themselves with the country that they are from. I especially appreciate this because knowing where the person you are talking to is from, allows you to learn specific dialects and idioms from their country – this is essential for learning a language and applying it in the real world.
 
