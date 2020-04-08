@@ -1,0 +1,10 @@
+---
+layout: post
+title: Olivia Scarantino, Saint Joseph's University
+tags: story
+---
+# {{ page.title }}
+
+25 September 2019
+
+I am first-year student at Saint Joseph’s University and am currently taking Italian 101. My first assignment on TalkAbroad was meant to be an ungraded practice conversation, but it went so well, I wouldn’t have minded if it was graded! I spoke with Laura Stecca, an Italian teacher from Vincenza. Naturally, I was quite nervous before the conversation, but once we began to speak, the tension dissipated. Laura was very understanding of the fact that I am just beginning to speak Italian and listened intently to what I had to say. We went through the questions I was required to ask, as outlined by my professor, and then began to freely speak about our interests. Laura seemed genuinely interested to hear about what I had to say. She continued to ask me questions, allowing me to speak the language on my own without a script. I told her of my Italian roots in Sicilia and of my grandparents who were born in Italy. I was surprised by the level of interest she expressed in our conversation, mostly because I did not know what to expect. It was not just another assignment she was required to do, and I felt as if I was genuinely learning and connecting with her. After the conversation, I had a huge smile on my face because I was so happy that I was able to carry out a conversation with a native Italian speaker, even though I only have a limited skillset! The conversation made me feel so much more confident in my ability to speak Italian. Even though I have just begun learning the language, I feel comfortable speaking Italian and will continue to learn it! My professor was so delighted to hear how excited I, as well as my class, was about the conversation, and even offered us extra time to meet and practice for out next TalkAbroad session! I hope to speak with Laura again, and I highly recommend her to anyone feeling nervous about their upcoming conversation! 
