@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taylor Kruse, Harvard University
+title: Taylor Kruse, Harvard University Part 1
 tags: story
 ---
 # {{ page.title }}
