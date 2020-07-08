@@ -8,6 +8,8 @@ tags: announcements
 
 06 Jun 2018
 
+*TalkAbroad has updated its pricing model. Please see [Updated Conversation Pricing](/announcements/Updated-pricing/) for more details.* 
+
 One frequently requested feature by professors over the years has been conversation of a shorter duration. After a successful beta run with approximately 15 schools this past Spring, we are pleased to announce the release of 10-minute conversations starting in Fall of 2018.
 
 ## Usage
